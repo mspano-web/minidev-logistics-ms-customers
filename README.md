@@ -5,7 +5,7 @@
 # MiniDev-Logistic:  api-gateway
 
 La presente iniciativa contiene el codigo de un mini desarrollo de software BackEnd.
-En particular, este proyecto contiene el modulo denominado api-gateway.
+En particular, este proyecto contiene el modulo denominado ms-customers.
 Es totalmente gratuito y compartido como un aporte a la comunidad. 
 Se focalizará en el procesamiento distribuido, mediante la aplicación del enfoque de microservicios. 
 Se apoya en videos que seran publicados en el canal de youtube:  [Developer Web MS](https://www.youtube.com/playlist?list=PLWnRJL1SdIio8TshcHJrJ6_3btfZDuz4O).
@@ -13,7 +13,7 @@ Se apoya en videos que seran publicados en el canal de youtube:  [Developer Web 
 ___
 
 This initiative contains the code of a mini BackEnd software development.
-In particular, this project contains the module called api-gateway.
+In particular, this project contains the module called ms-customers.
 It is completely free and shared as a contribution to the community. It will focus on distributed processing, by applying the microservices approach. 
 It is supported by videos that will be published on the YouTube channel: [Developer Web MS](https://www.youtube.com/playlist?list=PLWnRJL1SdIio8TshcHJrJ6_3btfZDuz4O).
 
